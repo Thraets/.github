@@ -6,6 +6,10 @@ deliberate disinformation, unintentional misinformation, social divisions, and r
 
 
 
+
+
+
+[![](https://visitcount.itsvg.in/api?id=thraets&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 
 **Here are some ideas to get you started:**
