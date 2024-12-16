@@ -20,12 +20,6 @@ We believe in transparency, digital rights, and the protection of democratic dis
 - Combat systemic misinformation
 - Defend individual privacy rights
 
-## Tools and Repositories
-
-Explore our current tools and research projects:
-
-_(Note: Placeholder for specific repository links)_
-
 ## Community and Collaboration
 
 ### 🌍 Join Our Community
